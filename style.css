@@ -1,0 +1,189 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	background-image:url("images/background.jpg");
+	background-repeat:repeat;
+}
+ 
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;
+}
+
+#container
+{
+  display: block; 
+  height:auto;
+  position: relative; 
+  width: 940px;
+}
+
+#mainTitle
+{
+background-image:url("images/title_background.jpg");
+floar:left;
+margin: 10px;
+padding: 30px;
+}
+
+#mainTitle h1
+{
+color:#FFF;
+font-size:30px;
+}
+
+
+#mainTitle h2
+{
+color:#FFFFFF;	
+font-size:20px;
+}
+
+
+.lightblue
+{
+color:#1970DA	
+	
+}
+
+#menu
+{
+background-image:url("images/menu.png");
+background-repeat:no-repeat;
+text-align: center;
+width:940px;
+height:69px;
+float:left;
+clear:both;
+}
+
+
+#bagpiper
+{
+	float:left;
+	width: 220px;
+    height: 330px;
+    float: left;
+}
+#bagpipe1
+{
+	float:left;
+	width: auto;
+    height: 320px;
+    float: left;
+}
+#bagpipe2
+{
+	float:left;
+	width: 300px;
+    height: auto;
+    float: left;
+	margin-top: 100px;
+}
+
+#photos_home{
+	
+	height: 345px;
+	margin-top: 15px;
+    margin-left: 15px;
+}
+
+.cont{
+	
+	height: 300px;	
+}
+
+.description{
+
+    width: 450px;
+    margin-left: 280px;
+    margin-top: 30px;
+}
+
+
+.photo_pipe{
+	
+    width: 250px;
+    height: 250px;
+	float:left;
+	margin-top: 10px;
+}
+
+#products{
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+
+#craftsman{
+	
+margin-top:20px;
+	width:50%;
+	height:50%;
+}
+
+.info {position:absolute; top: 900px; z-index:1}
+.handmade_bagpipe {position:absolute; top: 900px; z-index:2}
+
+
+#content
+{
+width:880px;
+background-color:#FFF;
+padding-left:30px;
+padding-right:30px;
+padding-bottom:5px;
+padding-top:85px;
+padding-bottom: 85px;
+}
+
+#menu ul {
+	list-style: none;
+	padding: 0px;
+	margin-left:auto;
+	width:900px;
+	
+ width: 80%;
+    margin: auto;
+}
+
+#menu li {
+	list-style: none; 
+	display: block; 
+}
+
+
+#menu a {
+	float: left;
+	width: 150px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+	padding-top: 17px;
+	font-size: 15px;
+}
+
+#menu a:hover{
+	color:#BAD1F3;
+	background: url("images/menuhov.jpg") no-repeat;
+}
+
+#content p
+{
+	
+}
+
+
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
