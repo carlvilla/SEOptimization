@@ -57,7 +57,9 @@ cover the keywords with the image:
 .info {position:absolute; top: 900px; z-index:1} .handmade_bagpipe {position:absolute; top: 900px; z-index:2}
 4. Our mini website uses a navigation bar to move from one page to another. In the case of our target page, the link is called Home. To perform optimize link reputation we have to replace name of the link in the navigation bar in the other webpages by our search phrase (although, we wouldn’t do it in a real-life website for obvious esthetic reasons).
 
-C. Connection to and from the outside world 1. From the outside world
+C. Connection to and from the outside world 
+
+1. From the outside world
 
 We would like to obtain link from local business and from companies that could provide us the necessary materials for the bagpipes. For example, a local business that gives bagpipe lessons. So we search on Google “Bagpipe courses” and the first result was the website
 http://www.thepipingcentre.co.uk/bagpipe-education . It would be really beneficial for our webpage a link from that website.
