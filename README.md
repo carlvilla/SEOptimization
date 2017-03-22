@@ -20,6 +20,7 @@ After finding the phrase we want to optimize our site for, we used SiteSeeker to
 - www.gellaitrybagpipes.com
 - www.ianmurray-bagpipes.co.uk
 - www.bagpipebags.co.uk
+
 Then we ran our phrase, and we found the page that we want to optimise in the position number 10 (“Home”).
         
 IV. Optimization
@@ -40,7 +41,9 @@ c. The filename of the third image was changed to “red_handmade_bagpipe” and
  
 5. We did not change the heading because we considered that it was good enough (“Welcome to Bagpipe Symphony”).
 6. We included some bold words and meta-description. This is the meta-description included :
-<meta name="description" content="This is the website of Bagpipes Symphony. A handmade bagpipes company in Scotland since 1957">
+```html
+<meta name="description" content="This is the website of Bagpipes Symphony. A handmade bagpipes company in Scotland since 1957">"
+```
 
 B. Link optimization
 
