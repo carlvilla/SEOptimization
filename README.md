@@ -2,6 +2,7 @@
 Website in which it was used Search engine optimization techniques
 
 I. Our mini-site
+
 We created a fictitious local business (Bagpipes Symphony) that manufactures different kinds of bagpipes, and offers other services such as bagpipe repairing or visits. This local business has a mini-site we used in this assignment: https://people.dsv.su.se/~cavi5720/bagpipes_symphony.html.
 
 II. Page to optimize and search phrase
