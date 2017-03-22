@@ -1,5 +1,5 @@
 # SEOptimization
-Website in which it was used Search engine optimization techniques. Some of these techniques are not useful for modern search engines and they are only studied for educational purposes.
+Website in which it was used Search engine optimization techniques. Some of these techniques are not useful for modern search engines and they were only used for educational purposes.
 
 I. Our mini-site
 
